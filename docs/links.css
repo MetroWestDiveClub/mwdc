@@ -1,0 +1,7 @@
+<!--
+#linkpopup {position: absolute; left: 100px; margin-top: -20px;
+            border: solid #000 1px; font-weight: normal; background: #ccc;
+            padding: 3px; z-index:100; display: none;}
+
+#boxcontent:hover #linkpopup, #boxcontent.over #linkpopup {display: block}
+-->

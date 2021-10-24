@@ -1,0 +1,323 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+}
+body {
+  background: #fff;
+  color: #000000;
+  font-family: arial, tahoma, verdana, sans-serif;
+  font-size: 12px;
+}
+
+a {
+  outline: none;
+  text-decoration: underline;
+}
+a:hover {
+  text-decoration: none;
+}
+a:active {
+  color: #666;
+}
+
+img {
+  border: none;
+}
+
+#mainbody {
+  position: absolute;
+  width: 700px;
+  padding: 10px;
+  clear: left;
+}
+
+#header {
+  width: 100%;
+  height: 186px;
+  background-image: url("images/header.jpg");
+  overflow: hidden;
+}
+
+#header-nav {
+  left: -1px;
+  border: 1px solid #000;
+  width: 700px;
+  height: 236px;
+}
+
+/* menu style start */
+
+#divNav {
+  margin-bottom: 56px;
+}
+
+#nav {
+  margin: 0;
+  margin-left: 0px;
+  padding: 0;
+}
+
+#nav li.on ul,
+#nav li.off ul {
+  margin: 0;
+  padding: 0;
+}
+
+#nav a {
+  text-decoration: none;
+}
+
+#nav li {
+  /*float the main list items*/
+  margin: 0;
+  float: left;
+  display: block;
+}
+
+#nav li ul {
+  display: none;
+}
+
+#nav li.off ul,
+#nav li.on ul {
+  /*put the subnav below*/
+  position: absolute;
+  margin: 1px;
+  top: 216px;
+  left: 9px;
+  height: 30px;
+  width: 700px;
+  background: #9cf;
+}
+
+#nav li a {
+  color: #999;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  height: 14px;
+  width: 94px;
+  border: 1px solid #999;
+  padding: 2px;
+}
+#nav li.on ul a {
+  background: #9cf;
+}
+#nav li.on ul a.sub-on {
+  background: #06f;
+  height: 21px;
+  cursor: default;
+}
+
+#nav li.on a {
+  border: 1px solid #333;
+  color: #333;
+  background: #06f;
+}
+
+#nav li.on ul a,
+#nav li.off ul a {
+  float: left; /*ie doesn't inherit the float*/
+  border: 0;
+  color: #333;
+  width: auto;
+  padding-top: 7px;
+  margin-right: 15px;
+  display: block;
+  cursor: pointer;
+}
+
+#nav li.on ul {
+  display: block;
+  margin-left: 2px;
+}
+
+#nav li.off:hover ul,
+#nav li.over ul {
+  display: block;
+  z-index: 6000;
+  margin-left: 2px;
+}
+
+#nav li.on,
+#nav li.on a {
+  background: #06f;
+}
+
+#nav li.on a,
+#nav li.off a {
+  cursor: default;
+}
+
+#nav li.off a.real {
+  cursor: pointer;
+}
+
+#nav li.off a:hover,
+#nav li.off:hover a,
+#nav li.over a {
+  background: #9cf;
+  color: #333;
+}
+
+#box {
+  width: 210px;
+  border: solid 1px black;
+  padding: 0px;
+}
+#boxheader {
+  width: 100%;
+  background: #e0d0b0;
+  text-align: center;
+  font-weight: bold;
+  border-bottom: 1px solid #000;
+}
+#boxcontent {
+  background: #f4efe3;
+  padding: 5px;
+}
+#boxcontent span {
+  position: relative;
+  left: 24px;
+  width: 180px;
+  display: block;
+  text-decoration: underline;
+  color: #000;
+}
+#boxcontent:hover,
+#boxcontent.over {
+  background: #efdfbf;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+}
+#boxcontent span:active {
+  color: #666;
+}
+#boxcontent img {
+  position: absolute;
+  float: left;
+  margin: 5px;
+}
+#boxcontent a {
+  color: #000;
+}
+
+#boxcontent:hover #newspopup,
+#boxcontent.over #newspopup {
+  display: block;
+}
+
+.newsbox {
+  float: left;
+  clear: left;
+  margin-top: 5px;
+}
+
+#newspopup {
+  position: absolute;
+  left: 215px;
+  margin-top: -30px;
+  width: 490px;
+  border: solid #222 2px;
+  font-weight: normal;
+  background: #ccc;
+  text-align: justify;
+  padding: 10px;
+  z-index: 100;
+  display: none;
+  overflow: hidden;
+  cursor: default;
+}
+
+#newspopup a {
+  outline: none;
+  text-decoration: underline;
+}
+.popupheader {
+  font-size: 14px;
+  font-weight: bold;
+  color: #444;
+}
+
+#newspopup img {
+  position: relative;
+}
+
+#page-text {
+  position: absolute;
+  top: 252px;
+  left: 230px;
+  width: 465px;
+  font-size: 14px;
+  text-align: justify;
+  padding: 5px;
+}
+
+#page-header {
+  font-size: 18px;
+  font-weight: bold;
+  color: #444;
+}
+
+#speaker-box {
+  width: 465px;
+  margin-left: -5px;
+  text-align: justify;
+  border: solid 1px #999;
+  padding: 7px;
+  background: #e0d0b0;
+  font-size: 12px;
+}
+
+.speaker-title {
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.speaker-img {
+  margin: 5px auto;
+  border: solid 1px #000;
+  display: block;
+}
+
+#address {
+  margin-left: 30px;
+  font-style: italic;
+}
+
+#contentbar {
+  float: left;
+  clear: both;
+  height: 5px;
+  background: #666;
+  position: relative;
+  left: 10px;
+  margin-top: 20px;
+  padding: 0;
+}
+
+.charterpic {
+  margin: 20px;
+  border: solid 1px black;
+  width: 160px;
+  height: 120px;
+}
+
+.charterparam {
+  margin-left: 190px;
+  margin-top: 10px;
+  width: 60px;
+}
+
+.charterdesc {
+  margin-left: 270px;
+  margin-top: -15px;
+}
+
+#footer {
+  clear: both;
+}
