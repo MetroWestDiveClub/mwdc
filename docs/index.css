@@ -15,7 +15,6 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1em;
   line-height: 1.7;
-  box-sizing: border-box;
 }
 
 h1 {
@@ -49,6 +48,10 @@ blockquote p {
   margin: 0;
 }
 
+a {
+  color: #78a2cc;
+}
+
 .header {
   width: 100%;
   border-radius: 0;
@@ -75,8 +78,9 @@ blockquote p {
 .navigation,
 .navigation ul {
   margin: 0;
-  padding: 0 0 0 12px;
+  padding: 0 0 0 28px;
   list-style-type: none;
+  list-style-image: url("images/microflag.gif");
 }
 
 .content {
@@ -103,4 +107,23 @@ blockquote p {
     order: inherit;
     width: 200px;
   }
+}
+
+/* Responsive iFrame */
+.responsive-iframe-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+
+.responsive-iframe-container iframe,
+.responsive-iframe-container object,
+.responsive-iframe-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
