@@ -18,12 +18,12 @@ year.
 
 The current officers and directors are:
 
-- [President](mailto:president@mwdc.org): Matt Glass
-- [Vice President](mailto:vicepresident@mwdc.org): Steve Bigelow
-- [Treasurer](mailto:treasurer@mwdc.org): Steven Jacques
-- [Secretary](mailto:secretary@mwdc.org): Carl Schumann
-- [Newsletter](mailto:editor@mwdc.org): Michelle Joubert
-- [Membership](mailto:membership@mwdc.org): Lajaun Case
+- President: Matt Glass, <president@mwdc.org>
+- Vice President: Steve Bigelow
+- Treasurer: Steven Jacques
+- Secretary: Carl Schumann
+- Newsletter: Michelle Joubert
+- Membership: Lajaun Case
 - Board Member: Rick Breault
 - Board Member: Mike Royer
 - Board Member: Georgios Kokovidis
@@ -40,10 +40,10 @@ The MetroWest Dive Club also would not be able to carry on without the
 volunteers who coordinate the various functions that makes our club great. The
 current coordinators are:
 
-- [Boat Diving](mailto:boatdiving@mwdc.org): John Williams
-- [Shore Diving](mailto:dateateight@mwdc.org): Steve Bigelow
-- [Speakers](mailto:speaker@mwdc.org): Steve Bigelow
-- [Activities/Banquet](mailto:activities@mwdc.org): Rich Palanzi
-- [Club Merchandise](mailto:merchandise@mwdc.org): Jack Sargeant
-- [Club Drawings](mailto:merchandise@mwdc.org): Rick Breault
-- [Webmaster/Facebook](mailto:webmaster@mwdc.org): Jeff Wagner
+- Boat Diving: John Williams
+- Shore Diving: Steve Bigelow
+- Speakers: Steve Bigelow
+- Activities/Banquet: Rich Palanzi
+- Club Merchandise: Jack Sargeant
+- Club Drawings: Rick Breault
+- Webmaster/Facebook: Jeff Wagner

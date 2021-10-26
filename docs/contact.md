@@ -11,10 +11,21 @@ from you! You can contact the MetroWest Dive Club using one of the following
 methods:
 
 - Visiting us at one of our [monthly meetings](meetings.html).
-- Emailing us at <membership@mwdc.org>.
+- Emailing us:
+    - Membership: <membership@mwdc.org>
+    - Newsletter: <editor@mwdc.org>
+    - Boat Diving: <boatdiving@mwdc.org>
+    - Shore Diving: <dateateight@mwdc.org>
+    - Speakers: <speaker@mwdc.org>
+    - Activities/Banquet: <activities@mwdc.org>
+    - Club Merchandise: <merchandise@mwdc.org>
+    - Club Drawings: <merchandise@mwdc.org>
+    - Webmaster/Facebook: <webmaster@mwdc.org>
+
 - Writing us at:
   > The MetroWest Dive Club
   >
   > P.O. Box 1916
   >
   > Framingham, MA 01701
+
