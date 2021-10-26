@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+
 <div id="speaker-box">
     <div class="speaker-title" style="position: relative; top: 0">
         Tuesday, October 12th, 2021
@@ -98,46 +99,17 @@ title: Home
                     <p>
                         <i>*All speakers and topics subject to change without notice.</i>
                     </p>
+
 </div>
-<p>
-    The MetroWest Dive Club (MWDC) is dedicated to promoting fun, safe
-    diving, and introducing and familiarizing members with new dive sites.
-    We are committed to encouraging good relations with our coastal
-    neighbors through courtesy and good diving etiquette, and getting
-    involved with community activities.
-</p>
-<p>
-    The MWDC is not affiliated with any retailer, vendor, or
-    manufacturers. We are a large group of sport divers with a wide range
-    of scuba diving interests. Club members can help direct you to the
-    many training classes locally available.
-</p>
-<p>
-    MetroWest Dive Club meetings are held on the second Tuesday of each
----
-    month at the Courtyard Marriott on Speen Street in Natick. Meetings
-    are <b>free</b> and guests are welcome, divers and non-divers alike.
-    MWDC meetings start at 7:30 pm but members often meet socially at the
-    bar from 6:30 to 7:30pm.
-</p>
-<div id="page-header">Location</div>
 
-<p>
-    The Courtyard Marriott in Natick is at 342 Speen Street, Natick, MA.
-</p>
+The MetroWest Dive Club (MWDC) is dedicated to promoting fun, safe diving, and
+introducing and familiarizing members with new dive sites. We are committed to
+encouraging good relations with our coastal neighbors through courtesy and good
+diving etiquette, and getting involved with community activities.
 
-<p>
-    From the Mass Pike (I90) take Exit 13. Bear left after the toll booth
-    and around the loop to head east on Route 30. At the first set of
-    lights take a right and the Courtyard Marriott is a short distance on
-    your right. A map is also provided below for your convenience.
-</p>
+The MWDC is not affiliated with any retailer, vendor, or manufacturers. We are a
+large group of sport divers with a wide range of scuba diving interests. Club
+members can help direct you to the many training classes locally available.
 
-<iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2950.7064522987725!2d-71.38559898454538!3d42.3061286791906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3889d9832d973%3A0x51b30ad7146c6cf1!2sCourtyard%20by%20Marriott%20Boston%20Natick!5e0!3m2!1sen!2sus!4v1634271499830!5m2!1sen!2sus"
-    width="400"
-    height="300"
-    style="border:0;margin:0 auto;display:block;"
-    allowfullscreen=""
-    loading="lazy"
-    ></iframe>
+To get involved, feel free to join us at a one of <a href="meetings.html">our
+meetings</a>, or join us for <a href="dateateight.html">a dive</a>!

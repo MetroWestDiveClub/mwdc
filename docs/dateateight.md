@@ -1,0 +1,40 @@
+---
+layout: default
+title: Date @ Eight
+---
+
+# Date @ Eight
+
+Looking to socialize with other divers, don't have a buddy to dive with, or not
+sure where to dive?
+
+**Date @ Eight** is the Club's regular weekly dive outing which runs year-round.
+Divers rendezvous **every Saturday morning at 8:00 am** (weather and sea
+conditions permitting) at the Burger King rest area located just after Exit 19
+on Route 128 in Beverly, MA. The rest stop is a convenient spot for divers to
+meet-up, have breakfast, and plan the days diving activities before heading
+north to selected dive sites located in the Cape Ann area.
+
+Not a member? Don't worry, Date @ Eight is open to everyone, and there is no
+cost or obligation if you would like participate. One or more designated Club
+representatives will be present each week to coordinate the outing for any
+divers interested in participating - with or without buddies.
+
+The Club also periodically organizes weekend visits to other shore and boat
+sites around Massachusetts and the greater New England area (including New
+Hampshire and Rhode Island) as new and interesting dive opportunities arise. We
+have familiar sites, but we also enjoy trying new, safe, fun locations if you
+have recommendations.
+
+Please remember that all divers are responsible for providing and maintaining
+their own gear.
+
+_Non-members will be asked to show a valid C-card and sign a dive waiver prior
+to diving. Site locations, days and meeting times are subject to change
+according to weather forecasts, prevailing conditions, and diver safety and
+ability considerations. For more details and current dive plans, contact the
+Club representative listed on the left by the Thursday before the dive to let
+them know you would like to attend._
+
+**If you have signed up for a dive but are running late, please notify the Club
+representative.**

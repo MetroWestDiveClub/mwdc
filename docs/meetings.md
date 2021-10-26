@@ -1,0 +1,30 @@
+---
+layout: default
+title: Meetings
+---
+
+# MetroWest Dive Club Meetings
+
+MetroWest Dive Club meetings are held on the second Tuesday of each
+month at the Courtyard Marriott on Speen Street in Natick. Meetings
+are _free_ and guests are welcome, divers and non-divers alike.
+MWDC meetings start at 7:30 pm but members often meet socially at the
+bar from 6:30 to 7:30pm.
+
+# Location
+
+The Courtyard Marriott in Natick is at 342 Speen Street, Natick, MA.
+
+From the Mass Pike (I90) take Exit 13. Bear left after the toll booth
+and around the loop to head east on Route 30. At the first set of
+lights take a right and the Courtyard Marriott is a short distance on
+your right. A map is also provided below for your convenience.
+
+<iframe
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2950.7064522987725!2d-71.38559898454538!3d42.3061286791906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3889d9832d973%3A0x51b30ad7146c6cf1!2sCourtyard%20by%20Marriott%20Boston%20Natick!5e0!3m2!1sen!2sus!4v1634271499830!5m2!1sen!2sus"
+  width="400"
+  height="300"
+  style="border:0;margin:0 auto;display:block;"
+  allowfullscreen=""
+  loading="lazy"
+></iframe>

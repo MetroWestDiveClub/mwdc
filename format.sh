@@ -1,1 +1,1 @@
-prettier --write site/**/*.html
+prettier --write {,*/**/}*.{html,md,css}
