@@ -3,105 +3,48 @@ layout: default
 title: Home
 ---
 
-<div id="speaker-box">
-    <div class="speaker-title" style="position: relative; top: 0">
-        Tuesday, October 12th, 2021
-    </div>
+# Upcoming Speaker
 
-    <p style="text-align:center;">
-        <i>Please join us at <b>7:30pm</b> <br />via</i>
-        <b>Online Zoom Meeting</b>
-    </p>
+**Ryan King - Hidden Stories and Creative Lighting: Make your Images Pop**
 
-    <div class="speaker-title" style="text-align:center;">
-        <!-- <font color="red">***** CANCELLED *****</font> -->
-        Ryan King:<br />Hidden Stories and Creative Lighting: Make your
-        Images Pop
-    </div>
+Tuesday, October 12th, 2021
 
-    <p>
-        <!-- presentation description goes here -->
-        You’ve got the camera and lights, but so does everyone else. How do
-        you get your images and video to stand out among the crowd? Snoots
-        are great, but that’s just the beginning. During this session, Ryan
-        King will explore some simple tools / techniques to help improve the
-        stories your images tell.
-    </p>
+You’ve got the camera and lights, but so does everyone else. How do
+you get your images and video to stand out among the crowd? Snoots
+are great, but that’s just the beginning. During this session, Ryan
+King will explore some simple tools / techniques to help improve the
+stories your images tell.
 
-    <img src="images/speaker.jpg" width="175" class="speaker-img" />
+<p align="center"><img src="images/speaker.jpg" width="200" height="200" /></p>
 
-    <p>
-        Ryan started diving in 1990 and has never looked back. For over 25
-        years, Ryan has been diving, teaching, and photographing marine
-        life, caves, and wrecks from Canada to the Caribbean. He has a
-        passion for exploration and helping others enjoy and appreciate the
-        underwater world.
+Ryan started diving in 1990 and has never looked back. For over 25
+years, Ryan has been diving, teaching, and photographing marine
+life, caves, and wrecks from Canada to the Caribbean. He has a
+passion for exploration and helping others enjoy and appreciate the
+underwater world.
 
-        <!-- if there's a bio for a 2nd speaker
-            </br></br>
+Please join us for the MetroWest Dive Club's General Meeting (**via Zoom**) for
+the presentation.
 
-            Michael Murphy is a PADI Divemaster that loves diving in warm tropical places and taking/making videos of his trips.  Perhaps you've already seen some of them playing behind the counter at MASS Diving.
-        -->
-    </p>
+We will be holding a FREE Raffle eligible to all who join our Zoom Meeting and
+stay through to the end of the presentation.
 
-    <p>
-        Please join us for the MetroWest Dive Club's General Meeting (<b
-                                                                          >via Zoom</b
-                                                                      >) for the presentation.
-    </p>
+[Click here to join the Zoom Meeting](https://zoom.us/j/98757478843)
 
-            <p>
-                <b
-                    ><i
-                         >We will be holding a FREE Raffle eligible to all who join our
-                         Zoom Meeting and stay through to the end of the presentation.</i
-                     ></b
-                 >
-            </p>
+Password: 002707
 
-                        <p>
-                    <a href="https://zoom.us/j/98757478843"
-                       >Click here to join the Zoom Meeting</a
-                   >
-                   <br />Password: 002707
-                        </p>
+NOTE: For security purposes, people joining will land in a waiting
+room before being let into the meeting at 7:30. Also, we will be
+"locking the door" around 7:45, at which time no one else will be
+able to join.
 
-                        <p>
-                    NOTE: For security purposes, people joining will land in a waiting
-                    room before being let into the meeting at 7:30. Also, we will be
-                    "locking the door" around 7:45, at which time no one else will be
-                    able to join.
-                        </p>
+## Upcoming Speakers and Topics
 
-                    <p align="center">
-                        <br /><br /><strong>Upcoming Speakers and Topics*</strong>
-                    </p>
+- November: Richie Kohler - TBD
+- December: Eric Takakjian - Dangerous Shallows: in Search of Randall S Peffer
+    the Ghost Ships of Cape Cod
 
-                    <table border="1">
-                        <tr valign="top">
-                            <td><b>November</b></td>
-                            <td><i>Richie Kohler</i></td>
-                            <td><font color="blue">TBD</font></td>
-                        </tr>
-
-                        <tr valign="top">
-                            <td><b>December</b></td>
-                            <td><i>Eric Takakjian</i></td>
-                            <td>
-                                <font color="blue"
-                                      >Dangerous Shallows: in Search of Randall S Peffer the Ghost
-                                      Ships of Cape Cod</font
-                                  >
-                            </td>
-                        </tr>
-                    </table>
-
-                    <p>
-                        <i>*All speakers and topics subject to change without notice.</i>
-                    </p>
-
-</div>
-
+## The Club
 The MetroWest Dive Club (MWDC) is dedicated to promoting fun, safe diving, and
 introducing and familiarizing members with new dive sites. We are committed to
 encouraging good relations with our coastal neighbors through courtesy and good

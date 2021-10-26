@@ -9,7 +9,7 @@ title: Dive Boats
 
 Salem, MA ([Website](http://www.northernatlanticdive.com))
 
-<img src="images/gauntlet.jpg" width="150" height="150">
+<p align="center"><img src="images/gauntlet.jpg" width="200" height="200" /></p>
 
 - **Boat**: R/V Gauntlet, 36ft Northern Bay design
 - **Capacity**: 6 passengers complete with doubles, stages, DPVs
@@ -23,7 +23,7 @@ Heated & A/C'd cabin with head and galley.
 
 Gloucester, MA ([Website](http://www.divedaybreaker.com/))
 
-<img src="images/capeanncharters.jpg" width="150" height="150">
+<p align="center"><img src="images/capeanncharters.jpg" width="200" height="200" /></p>
 
 - **Boat**: Daybreaker, 32ft boat
 - **Capacity**: 6 passengers
@@ -36,7 +36,7 @@ may be contacted via cell phone at (508) 335-6339 or via email:
 
 East Boston, MA ([Website](http://www.bostonscuba.com/))
 
-<img src="images/bs1.jpg" width="150" height="150">
+<p align="center"><img src="images/bs1.jpg" width="200" height="200" /></p>
 
 - **Boat**: Keep-Ah
 - **Capacity**: 6 passengers
@@ -49,7 +49,7 @@ Sullivan. He may be contacted at: 617-418-5555 or via email:
 
 Gloucester, MA ([Website](http://www.downundercharters.com/index.html))
 
-<img src="images/downunder.jpg" width="150" height="150">
+<p align="center"><img src="images/downunder.jpg" width="200" height="200" /></p>
 
 - **Boat**: Down Under
 - **Capacity**: 6 passengers
