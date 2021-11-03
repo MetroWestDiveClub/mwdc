@@ -12,15 +12,13 @@ methods:
 
 - Visiting us at one of our [monthly meetings](meetings.html).
 - Emailing us:
-    - Membership: <membership@mwdc.org>
-    - Newsletter: <editor@mwdc.org>
-    - Boat Diving: <boatdiving@mwdc.org>
-    - Shore Diving: <dateateight@mwdc.org>
-    - Speakers: <speaker@mwdc.org>
-    - Activities/Banquet: <activities@mwdc.org>
-    - Club Merchandise: <merchandise@mwdc.org>
-    - Club Drawings: <merchandise@mwdc.org>
-    - Webmaster/Facebook: <webmaster@mwdc.org>
+  - Membership: <membership@mwdc.org>
+  - Newsletter: <editor@mwdc.org>
+  - Shore Diving: <dateateight@mwdc.org>
+  - Speakers: <speaker@mwdc.org>
+  - Club Merchandise: <merchandise@mwdc.org>
+  - Club Drawings: <merchandise@mwdc.org>
+  - Webmaster/Facebook: <webmaster@mwdc.org>
 
 - Writing us at:
   > The MetroWest Dive Club
@@ -28,4 +26,3 @@ methods:
   > P.O. Box 1916
   >
   > Framingham, MA 01701
-

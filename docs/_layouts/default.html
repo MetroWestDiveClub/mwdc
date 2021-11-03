@@ -6,13 +6,18 @@
     <title>{{ page.title | prepend: "MetroWest Dive Club | " }}</title>
     <link rel="stylesheet" href="index.css" type="text/css" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto&display=swap");
+    </style>
   </head>
   <body>
-    <img
-      class="header"
-      src="images/header.jpg"
-      alt="Logo of MetroWest Dive Club on top of a picture of a wreck."
-    />
+    <a href="index.html">
+      <img
+        class="header"
+        src="images/header.jpg"
+        alt="Logo of MetroWest Dive Club on top of a picture of a wreck."
+      />
+    </a>
     <div class="sidebar">
       {% include navigation.html %} {% include social.html %}
       <div class="footer">&copy; MetroWest Dive Club, 2021</div>

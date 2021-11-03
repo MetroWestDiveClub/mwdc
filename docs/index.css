@@ -12,27 +12,35 @@ body {
   align-items: flex-start;
   align-content: flex-start;
   gap: 12px;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 1em;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
   line-height: 1.7;
 }
 
 h1 {
+  font-family: "Montserrat", sans-serif;
   font-size: 1.5em;
-  font-weight: bold;
-  color: #444;
   margin-bottom: 2px;
 }
 
 h2 {
+  font-family: "Montserrat", sans-serif;
   font-size: 1.1em;
-  font-weight: bold;
-  color: #444;
   margin-bottom: 2px;
 }
 
+ul,
 p {
   margin-top: 0;
+}
+
+em {
+  font-weight: 400;
+}
+
+strong {
+  font-family: "Montserrat", sans-serif;
 }
 
 img {
@@ -96,6 +104,7 @@ a {
 
 .footer {
   text-align: center;
+  font-size: 14px;
 }
 
 @media only screen and (min-width: 700px) {

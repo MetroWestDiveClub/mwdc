@@ -5,6 +5,9 @@ title: Dive Boats
 
 # Dive Boats
 
+These links are provided only for the convenience of our members. The Metro West
+Dive Club makes no endorsement of any commercial enterprise.
+
 ## Boston Scuba
 
 East Boston, MA ([Website](http://www.bostonscuba.com/))
@@ -17,7 +20,6 @@ East Boston, MA ([Website](http://www.bostonscuba.com/))
 Keep-Ah has all USCG mandated safety equipment. It is operated by captain Jim
 Sullivan. He may be contacted at: 617-418-5555 or via email:
 <bostonscubainc@gmail.com>.
-
 
 ## R/V Gauntlet
 
@@ -32,6 +34,7 @@ Salem, MA ([Website](http://www.northernatlanticdive.com))
 Boat custom-built for tech diving. Tanks stored bungied along the gunnels, nice
 table for gearing up in middle of the deck. Very nice and long fins-on ladder.
 Heated & A/C'd cabin with head and galley.
+
 ## Cape Ann Diver II
 
 Gloucester, MA ([Website](https://www.capeanndiver2.com/))

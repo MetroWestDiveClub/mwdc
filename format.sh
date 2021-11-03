@@ -1,1 +1,1 @@
-prettier --write {,*/**/}*.{html,md,css}
+prettier --write "{,*/**/}*.{html,md,css}"
