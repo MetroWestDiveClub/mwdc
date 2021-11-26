@@ -122,26 +122,8 @@ a {
 
 .speaker-images {
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: row wrap;
   justify-content: center;
   margin: 24px 0;
-}
-
-/* Responsive iFrame */
-.responsive-iframe-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  padding-top: 30px;
-  height: 0;
-  overflow: hidden;
-}
-
-.responsive-iframe-container iframe,
-.responsive-iframe-container object,
-.responsive-iframe-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  gap: 24px;
 }
