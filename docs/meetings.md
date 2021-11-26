@@ -33,3 +33,4 @@ able to join.
 
 - December: Eric Takakjian - Dangerous Shallows: in Search of Randall S Peffer
   the Ghost Ships of Cape Cod
+- January: Michael Leach: Sea of Cortez
