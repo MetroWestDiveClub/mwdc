@@ -31,6 +31,5 @@ able to join.
 
 ## Upcoming Speakers and Topics
 
-- December: Eric Takakjian - Dangerous Shallows: in Search of Randall S Peffer
-  the Ghost Ships of Cape Cod
+- December: Eric Takakjian, Randall S Peffer - Dangerous Shallows: in Search of the Ghost Ships of Cape Cod
 - January: Michael Leach: Sea of Cortez
