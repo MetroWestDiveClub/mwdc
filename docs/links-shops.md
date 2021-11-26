@@ -1,6 +1,6 @@
 ---
 layout: default
-pags: Dive Shops
+title: Dive Shops
 ---
 
 # Dive Shops

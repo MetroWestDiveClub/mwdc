@@ -7,7 +7,7 @@ title: Home
 
 {% include speaker_blurb.md %}
 
-<p align="center"><img src="images/speaker.jpg" width="200" height="200" /></p>
+{% include speaker_images.md %}
 
 [Click here to join the Zoom Meeting](https://zoom.us/j/98757478843)
 
