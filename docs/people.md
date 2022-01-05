@@ -32,7 +32,6 @@ year.
 - Greg Braun
 - Rick Breault
 - Georgios Kokovidis
-- David Lapp
 - Alexine Raineri
 - Jeff Wagner
 - Brandon Westerling
