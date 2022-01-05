@@ -1,9 +1,11 @@
-**Ryan King - Hidden Stories and Creative Lighting: Make your Images Pop**
+**A Photographic Journey through the Sea of Cortez on the Rocio del Mar**
 
-Tuesday, October 12th, 2021
+Tuesday, January 11th, 2021
 
-You’ve got the camera and lights, but so does everyone else. How do
-you get your images and video to stand out among the crowd? Snoots
-are great, but that’s just the beginning. During this session, Ryan
-King will explore some simple tools / techniques to help improve the
-stories your images tell.
+This presentation will chronicle our trip in late September to early October
+2021 aboard the Rocio del Mar as it sailed the entire Sea of Cortez from Puerto
+Penasco in the north to San Jose del Cabo in the south.  This trip is offered
+only 3 times/year, and the Rocio del Mar is the only boat doing this route.  We
+will discuss our favorite images, including everything from nudibranchs to
+whales, as well as a little bit about the boat and general logistics. 
+
