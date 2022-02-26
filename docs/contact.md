@@ -12,6 +12,7 @@ methods:
 
 - Visiting us at one of our [monthly meetings](meetings.html).
 - Emailing us:
+
   - Membership: <membership@mwdc.org>
   - Newsletter: <editor@mwdc.org>
   - Shore Diving: <dateateight@mwdc.org>

@@ -10,3 +10,4 @@ title: Ocean and Weather Conditions
 - [Marine Forecast - Nubble Light](https://marine.weather.gov/MapClick.php?lon=-70.58578491210936&lat=43.16512263158296)
 - [The National Weather Service](https://www.weather.gov/)
 - [The Weather Channel](https://weather.com/)
+- [Rockport (Front Beach) Webcam](http://captainsbounty.dnsalias.com/view/viewer_index.shtml)
