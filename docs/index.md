@@ -9,10 +9,6 @@ title: Home
 
 {% include speaker_images.md %}
 
-[Click here to join the Zoom Meeting](https://zoom.us/j/98757478843)
-
-Password: 002707
-
 For more information, see <a href="meetings.html">our meetings page</a>.
 
 ## The Club
