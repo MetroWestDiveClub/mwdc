@@ -1,7 +1,7 @@
 <p align=center><b>Tuesday, June 14th, 2022</b></p>
 
-Please join us at **7:30pm**</br>
-at the _Courtyard Marriott on Speen Street in Natick_.
+Please join us at **7:30pm**
+<br>at the _Courtyard Marriott on Speen Street in Natick_.</br>
 
 ### The Diver’s Guide to Harvest in Massachusetts
 
