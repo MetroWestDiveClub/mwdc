@@ -18,4 +18,6 @@ the presentation.
 
 ## Upcoming Speakers and Topics
 
-- July: TBD
+| Month | Speaker | Topic |
+| --- | --- | --- |
+| July| TBD | TBD |
