@@ -7,13 +7,11 @@ title: Meetings
 
 The Courtyard Marriott in Natick is at:
 
-**342 Speen Sreet,
-Natick, MA**
+<p align=center><b>342 Speen Sreet, Natick, MA</b></p>
 
-From the Mass Pike (I90) take Exit 13. 
-Bear left after the toll booth and around the loop to head east on Route 30. 
-At the first set of lights take a right and the Courtyard Marriott is a short distance on your right. 
-A map is also provided below for your convenience.
+1. From the Mass Pike (I90) take Exit 13. 
+1. Bear left after the toll booth and around the loop to head east on Route 30. 
+1. At the first set of lights take a right and the Courtyard Marriott is a short distance on your right. 
 
 <!--
 <iframe width="450" height="338" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 
