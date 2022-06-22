@@ -12,10 +12,5 @@ The Courtyard Marriott in Natick is at:
 1. From the Mass Pike (I90) take Exit 13. 
 1. Bear left after the toll booth and around the loop to head east on Route 30. 
 1. At the first set of lights take a right and the Courtyard Marriott is a short distance on your right. 
-
-<!--
-<iframe width="450" height="338" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 
-        src="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=&amp;daddr=342+Speen+Street,+Natick,+MA+01760+(Courtyard+Boston+Natick)&amp;hl=en&amp;geocode=CXAymAPaoelkFRaKhQIdJMi--yHxbGwU1wqzUQ&amp;mra=ls&amp;sll=42.306031,-71.383603&amp;sspn=0.004332,0.00707&amp;ie=UTF8&amp;t=h&amp;vpsrc=0&amp;ll=42.3068,-71.385984&amp;spn=0.007617,0.013733&amp;output=embed"</iframe><br />
--->
         
-<a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=&amp;daddr=342+Speen+Street,+Natick,+MA+01760+(Courtyard+Boston+Natick)&amp;hl=en&amp;geocode=CXAymAPaoelkFRaKhQIdJMi--yHxbGwU1wqzUQ&amp;mra=ls&amp;sll=42.306031,-71.383603&amp;sspn=0.004332,0.00707&amp;ie=UTF8&amp;t=h&amp;vpsrc=0&amp;ll=42.3068,-71.385984&amp;spn=0.007617,0.013733" style="color:#0000FF;text-align:left">Click here to create personalized directions</a><br />
+<a href="https://www.google.com/maps/dir//Courtyard+by+Marriott+Boston+Natick,+342+Speen+St,+Natick,+MA+01760/@42.3068,-71.385984,1158m/data=!3m1!1e3!4m17!1m7!4m6!1m0!1m4!2m2!1d-71.383004!2d42.30607!4e1!4m8!1m0!1m5!1m1!1s0x89e3889d9832d973:0x51b30ad7146c6cf1!2m2!1d-71.3834103!2d42.3061287!3e0?hl=en" style="color:#0000FF;text-align:left">Click here to create personalized directions</a><br />
