@@ -1,4 +1,5 @@
 **The Diver’s Guide to Harvest in Massachusetts**
+Presented by Vin Malkoski
 
 Tuesday, June 14th, 2022
 
