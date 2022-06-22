@@ -1,4 +1,1 @@
-Michael and Virginia enjoyed photography throughout much of their lives, and
-both began scuba diving more seriously in the past decade. Each has been diving
-in many different locations throughout the world, mostly where the water is
-warm.
+**Vin Malkoski** is a Senior Marine Fisheries Biologist and the Diving Safety Officer for the Massachusetts Division of Marine Fisheries. Over his 40 years with the agency, Vin has worked on many different projects including managing the Division’s Environmental Review and Artificial Reef projects, serving as the horseshoe crab biologist, and performing impact assessment studies on Pilgrim Nuclear Power Station. He is a long-time member of the Bay State Council of Divers, a Boston Sea Rover, and serves as a board member on the MA Board of Underwater Archeology. Vin has been a New England diver for 47 years and continues to dive whenever he can and in as many locations as possible.
