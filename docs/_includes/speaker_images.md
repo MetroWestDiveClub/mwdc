@@ -1,6 +1,7 @@
-<div class="speaker-images">
-<img src="images/speaker.jpg" width="200" height="200" />
+<!-- <div class="speaker-images"> -->
+<div>
+<img src="images/speaker.jpg" width="450" />
 {% if site.data.config.shouldUseTwoSpeakers %}
-<img src="images/speaker2.jpg" width="200" height="200" />
+<img src="images/speaker2.jpg" width="450" />
 {% endif %}
 </div>
