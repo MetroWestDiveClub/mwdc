@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Upcoming Speaker
+# Upcoming Speaker
 
 {% include speaker_blurb.md %}
 
