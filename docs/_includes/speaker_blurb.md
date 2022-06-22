@@ -1,10 +1,5 @@
-**A Photographic Journey through the Sea of Cortez on the Rocio del Mar**
+**The Diver’s Guide to Harvest in Massachusetts**
 
-Tuesday, January 11th, 2021
+Tuesday, June 14th, 2022
 
-This presentation will chronicle our trip in late September to early October
-2021 aboard the Rocio del Mar as it sailed the entire Sea of Cortez from Puerto
-Penasco in the north to San Jose del Cabo in the south. This trip is offered
-only 3 times/year, and the Rocio del Mar is the only boat doing this route. We
-will discuss our favorite images, including everything from nudibranchs to
-whales, as well as a little bit about the boat and general logistics.
+Many divers are confused by the regulations and more than a few don’t realize that a recreational fishing license is required to take finfish while diving regardless of the gear type used. This presentation is a review of the rules and regulations that apply to diver harvest in MA waters and discussion about the regulations and biology of the animals. Questions are encouraged. Come find out how to stay out of trouble while catching dinner!
