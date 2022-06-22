@@ -1,4 +1,4 @@
-## Upcoming Speaker
+# Upcoming Speaker
 
 <p align=center><b>Tuesday, June 14th, 2022</b></p>
 
