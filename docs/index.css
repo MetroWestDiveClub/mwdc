@@ -127,3 +127,8 @@ a {
   margin: 24px 0;
   gap: 24px;
 }
+
+.speaker-images img {
+  border-radius: 0;
+}
+
